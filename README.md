@@ -1,4 +1,4 @@
-💫 Hi 👋, I'm Rakesh kumar
+💫 Hi 👋, I'm Rakesh kumar. 
 A passionate Software Engineer 
 Email Me 👉 ✉️ rakeshkumar763300@gmail.com For Collaboration/Project or Anything Else. 😊😊
 

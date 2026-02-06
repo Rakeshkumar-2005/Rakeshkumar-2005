@@ -8,9 +8,8 @@ Email Me 👉 ✉️ rakeshkumar763300@gmail.com For Collaboration/Project or An
 <a href="https://linkedin.com/in/rakesh-kumar-97a242326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-kumar-97a242326" height="30" width="40" /></a>
 <a href="https://instagram.com/rakeshkumarsah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakeshkumarsah_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@rakeshkumar-qy5st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rakeshkumar-qy5st" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/real_dell_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="real_dell_25" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rakeshkumar76331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rakeshkumar76331" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakeshkumarsah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakeshkumarsah_" height="30" width="40" /></a>
+
+
 <a href="https://discord.gg/rakeshkumar763300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rakeshkumar763300" height="30" width="40" /></a>
 </p>
 

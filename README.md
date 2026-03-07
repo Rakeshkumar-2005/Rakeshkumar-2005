@@ -7,8 +7,6 @@ Email Me 👉 ✉️ rakeshkumar763300@gmail.com For Collaboration/Project or An
 <a href="https://twitter.com/@rakesh763300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rakesh763300" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakesh-kumar-97a242326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-kumar-97a242326" height="30" width="40" /></a>
 <a href="https://instagram.com/rakeshkumarsah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakeshkumarsah_" height="30" width="40" /></a>
-
-
 <a href="https://discord.gg/rakeshkumar763300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rakeshkumar763300" height="30" width="40" /></a>
 </p>
 

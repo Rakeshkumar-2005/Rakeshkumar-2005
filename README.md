@@ -17,6 +17,9 @@ Email Me 👉 ✉️ rakeshkumar763300@gmail.com For Collaboration/Project or An
   <a href="https://discord.gg/rakeshkumar763300" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
   </a>
+   <a href="https://leetcode.com/u/real_dell_25/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

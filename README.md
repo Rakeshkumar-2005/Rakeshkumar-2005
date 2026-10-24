@@ -22,7 +22,6 @@ Email Me 👉 ✉️ rakeshkumar763300@gmail.com For Collaboration/Project or An
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rakeshkumar-2005l&label=Profile%20views&color=0e75b6&style=flat" alt="Rakeshkumar-2005" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
